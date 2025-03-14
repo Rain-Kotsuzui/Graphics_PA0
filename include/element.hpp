@@ -1,5 +1,4 @@
 #pragma once
-
 #include <image.hpp>
 #include <algorithm>
 #include <queue>
